@@ -1,0 +1,13 @@
+Package: snAppCaptureR
+Title: Take Snaps Using up to Two Webcams
+Version: 0.0.0.9000
+Authors@R: person('Marcelo', 'Alid-Vaccarezza', email = 'maalid@gmail.com', role = c('cre', 'aut'))
+Description: A shiny app for take snapshots from one or two webcams. It allows to label the images and save them in the train-validation-test folder structure.
+License: MIT + file LICENSE
+Imports: 
+    config,
+    golem,
+    shiny
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
