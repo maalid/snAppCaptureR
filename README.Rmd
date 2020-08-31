@@ -33,14 +33,14 @@ You can install the released version of snapShooteR from [CRAN](https://CRAN.R-p
 install.packages("snAppCaptureR")
 ```
 
-## Example
+<!-- ## Example -->
 
-This is a basic example which shows you how to solve a common problem:
+<!-- This is a basic example which shows you how to solve a common problem: -->
 
-```{r example}
-library(snAppCaptureR)
-## basic example code
-```
+<!-- ```{r example} -->
+<!-- library(snAppCaptureR) -->
+<!-- ## basic example code -->
+<!-- ``` -->
 
 ## Code of Conduct
 
