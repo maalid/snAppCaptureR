@@ -16,6 +16,7 @@
 ## Dependencies ----
 ## Add one line by package you want to add as dependency
 usethis::use_package( "snapShooteR" )
+usethis::use_dev_package("snapShooteR")
 
 ## Add modules ----
 ## Create a module infrastructure in R/
