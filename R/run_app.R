@@ -10,8 +10,8 @@ run_app <- function(
 ) {
   with_golem_options(
     app = shinyApp(
-      ui = app_ui, 
-      server = app_server
+      ui = snapShooteR:::app_ui, 
+      server = snapShooteR:::app_server
     ), 
     golem_opts = list(...)
   )
